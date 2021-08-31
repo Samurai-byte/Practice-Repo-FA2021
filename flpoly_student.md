@@ -2,26 +2,26 @@
 
 ### Fall 2021
 
-DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
+DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: Florida poly
 
-- Course
+- Course Calculus 1
 
-- Course 2
+- Course 2 Data science
 
-- Course 3
+- Course 3 introduction to python
 
 - Course 4
 
 **Hobbies:**
 
-I am _passionate about_: 
+I am _passionate about_:
 
-- Thing 1
+- Thing 1 playing TCG
 
-- Thing 2
+- Thing 2 watching anime, reading manga
 
 - Thing 3 as shown in this website <https://www.floridapoly.edu>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/08/31
