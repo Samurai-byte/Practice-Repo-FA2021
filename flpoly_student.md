@@ -1,5 +1,4 @@
-## Student Name (or name you would preferred to be called)
-
+## Daniel
 ### Fall 2021
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: Florida poly
