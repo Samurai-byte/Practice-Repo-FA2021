@@ -10,7 +10,14 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 
 - Course 3 introduction to python
 
-- Course 4
+### Table
+| Prefix|  number|             name|credits|
+| ----: |:-------|-----------------|:-----:|
+|**COP**|**2073**|  *Data Science* |     3 |
+|**MAC**|**2311**|    *Calculus 1* |     4 |
+|**COP**|**2034**|*Intro to python*|     3 |
+
+Table: Courses being taken
 
 **Hobbies:**
 
