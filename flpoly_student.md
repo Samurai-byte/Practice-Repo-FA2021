@@ -18,7 +18,7 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 | **COP**|**2073**|Data Science|     3 |
 | **COP**|**2034**|      Python|     3 |
 | **COP**|**2375**| cloud infra|     3 |
-| **MAC**|**2311**|   Calculus 1|     4 |
+| **MAC**|**2311**|   Calculus 1|     4|
 
 Table: course enroll currently
 **Hobbies:**
