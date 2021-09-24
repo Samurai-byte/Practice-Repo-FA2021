@@ -1,23 +1,26 @@
 ## Daniel
+
 ### Fall 2021
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: Florida poly
 
-- Course Calculus 1
+- Course analytic geometry and Calculus 1
 
-- Course 2 Data science
+- Course 2 introduction to Data science
 
 - Course 3 introduction to python
 
+- Course 4 Cloud Infrastructure and services
+
 ### Table
-| Prefix|  number|             name|credits|
-| ----: |:-------|-----------------|:-----:|
-|**COP**|**2073**|  *Data Science* |     3 |
-|**MAC**|**2311**|    *Calculus 1* |     4 |
-|**COP**|**2034**|*Intro to python*|     3 |
+|  Prefix|  Number|    Name    |Credits|
+|------: |:-------|------------|:-----:|
+| **COP**|**2073**|Data Science|     3 |
+| **COP**|**2034**|      Python|     3 |
+| **COP**|**2375**| cloud infra|     3 |
+| **MAC**|**2311**|   Calculus 1|     4 |
 
-Table: Courses being taken
-
+Table: course enroll currently
 **Hobbies:**
 
 I am _passionate about_:
@@ -30,4 +33,4 @@ I am _passionate about_:
 
 ***
 
-> Last modified: 2021/08/31
+> Last modified: 2021/09/23
